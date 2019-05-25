@@ -1,0 +1,21 @@
+Pic: lesson1_banner.png
+https://www.google.com/search?q=traffic+lights+emergency+vehicle+sensor&rlz=1C1CHBF_enCA836CA836&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjGk46JmK3iAhUJm1kKHRTgA-4Q_AUIDigB&biw=1517&bih=730#imgrc=K1Q_CKq1ASq-wM:
+
+Pic: lesson2_banner.jpg
+https://www.google.com/search?rlz=1C1CHBF_enCA836CA836&biw=1517&bih=675&tbm=isch&sa=1&ei=ajzkXLSLHYbQtAXU9zw&q=sunflower+solar+energy&oq=sunflower+solar+en&gs_l=img.1.0.0i24.6384.6509..7473...0.0..0.101.195.1j1......1....1..gws-wiz-img.......0.A2mFP7gDOSE#imgrc=KGrPmh0uPLLHbM:
+
+Pic: lesson3_banner.png
+https://www.google.com/search?q=IoT+vehicle&rlz=1C1CHBF_enCA836CA836&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjdiLmP_bTiAhUBlawKHRP4DLIQ_AUIDigB&biw=1517&bih=675#imgrc=cwiTyxpfdb6OIM:
+
+Pic: lesson4_banner.jpg
+https://www.google.com/search?q=rfid+security&rlz=1C1CHBF_enCA836CA836&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjty_r0g7XiAhVKXK0KHeRIAEEQ_AUIDigB&biw=1517&bih=730#imgrc=jPnEvhv4cnsgxM:
+
+Pic: lesson5_banner.jpg
+https://www.google.com/search?rlz=1C1CHBF_enCA836CA836&biw=1517&bih=675&tbm=isch&sa=1&ei=cH_pXMmOKon8tAXLibfIAw&q=astro+gardening+systems&oq=astro+gardening+systems&gs_l=img.3...3151.4273..4839...0.0..0.136.658.1j5......0....1..gws-wiz-img.B9AjhNtgQ08#imgrc=XX1oJc8QYp6Z1M:
+
+Pic: lesson6_banner.jpg
+https://www.google.com/search?q=arduino+temperature+sensor&rlz=1C1CHBF_enCA836CA836&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjd-amjorfiAhUMj1kKHdPvDNAQ_AUIDigB&biw=1517&bih=675#imgrc=qFLUqMirsUYEFM:
+
+Pic: lesson7_banner.jpg
+https://www.google.com/search?rlz=1C1CHBF_enCA836CA836&biw=1517&bih=675&tbm=isch&sa=1&ei=w4XpXNLdEs-GsQWJxrLoCA&q=automatic+street+lighting+system&oq=automatic+street+lighting+system&gs_l=img.3..0i24l4.2417.2417..2594...0.0..0.137.137.0j1......0....1..gws-wiz-img.rXV4MiQuN8U#imgrc=2HEFAk5Jlc4H9M:
+
