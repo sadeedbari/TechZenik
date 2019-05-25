@@ -19,3 +19,6 @@ https://www.google.com/search?q=arduino+temperature+sensor&rlz=1C1CHBF_enCA836CA
 Pic: lesson7_banner.jpg
 https://www.google.com/search?rlz=1C1CHBF_enCA836CA836&biw=1517&bih=675&tbm=isch&sa=1&ei=w4XpXNLdEs-GsQWJxrLoCA&q=automatic+street+lighting+system&oq=automatic+street+lighting+system&gs_l=img.3..0i24l4.2417.2417..2594...0.0..0.137.137.0j1......0....1..gws-wiz-img.rXV4MiQuN8U#imgrc=2HEFAk5Jlc4H9M:
 
+Pic: lesson8_banner.jpg
+https://www.google.com/search?rlz=1C1CHBF_enCA836CA836&biw=1517&bih=675&tbm=isch&sa=1&ei=xoXpXNOwM4uqsgWjuZ3wBg&q=ultrasonic+glasses&oq=ultrasonic+glasses&gs_l=img.3..0j0i24l7.3393053.3395961..3396239...0.0..0.242.2052.9j7j2......0....1..gws-wiz-img.......0i67.obQ5Hch6AxA#imgrc=6S1O4lNyWWGs3M:
+
